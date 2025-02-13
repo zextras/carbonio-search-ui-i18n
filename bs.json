@@ -1,5 +1,12 @@
 {
     "active_input_label": "Odvoji ključne riječi zarezom ili pritiskom na Razmak",
     "type_or_choose_suggestion": "Upiši ili odaberi neke ključne riječi za početak pretrage",
-    "type_to_start_search": "Unesi ključne riječi za početak pretrage"
+    "type_to_start_search": "Unesi ključne riječi za početak pretrage",
+    "unable_to_parse_query": "Nije moguće dovršiti pretragu, izbriši je i pokušaj ponovo",
+    "already_clear": "Unos za pretragu je već prazan",
+    "clear": "Očisti pretragu",
+    "idle_input_label": "Pretraži u {{module}}",
+    "app": "Pretraga",
+    "module": "Modul",
+    "start": "Počni pretragu"
 }
