@@ -1,4 +1,12 @@
 {
-    "module": "Modul",
-    "start": "Začni iskanje"
+    "module": "Moduli",
+    "start": "Začni iskanje",
+    "active_input_label": "Ločite svoje ključne besede z vejico",
+    "already_clear": "Iskalno polje je že prazno",
+    "app": "Iskanje",
+    "idle_input_label": "Išči v {{module}}",
+    "type_or_choose_suggestion": "Vpišite ali izberite nekaj ključnih besed za začetek iskanja",
+    "type_to_start_search": "Vpišite nekaj ključnih besed za začetek iskanja",
+    "unable_to_parse_query": "Iskanja ni mogoče dokončati, počistite ga in poskusite znova",
+    "clear": "Počisti iskalno polje"
 }
