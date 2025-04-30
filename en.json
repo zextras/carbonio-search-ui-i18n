@@ -8,8 +8,5 @@
     "start": "Start search",
     "type_or_choose_suggestion": "Type or choose some keywords to start a search",
     "type_to_start_search": "Type some keywords to start a search",
-    "unable_to_parse_query": "Unable to complete the search, clear it and retry",
-    "abel": {
-        "clear_search_query": "CLEAR SEARCH"
-    }
+    "unable_to_parse_query": "Unable to complete the search, clear it and retry"
 }
