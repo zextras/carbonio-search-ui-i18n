@@ -8,5 +8,8 @@
     "type_or_choose_suggestion": "Vpišite ali izberite nekaj ključnih besed za začetek iskanja",
     "type_to_start_search": "Vpišite nekaj ključnih besed za začetek iskanja",
     "unable_to_parse_query": "Iskanja ni mogoče dokončati, počistite ga in poskusite znova",
-    "clear": "Počisti iskalni vnos"
+    "clear": "Počisti iskalni vnos",
+    "label": {
+        "clear_search_query": "POČISTI ISKANJE"
+    }
 }
