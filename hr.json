@@ -1,1 +1,15 @@
-{}
+{
+    "already_clear": "Polje za pretraživanje je već prazno",
+    "active_input_label": "Odvojite ključne riječi zarezom",
+    "app": "Pretraži",
+    "clear": "Poništi unos pretrage",
+    "idle_input_label": "Pretraži u {{module}}",
+    "module": "Modul",
+    "start": "Započni pretragu",
+    "type_or_choose_suggestion": "Unesite ili odaberite pojmove za početak pretrage",
+    "type_to_start_search": "Upišite neke pojmove da biste počeli pretraživanje",
+    "unable_to_parse_query": "Nije moguće izvršiti pretragu. Očistite unos i pokušajte ponovo",
+    "label": {
+        "clear_search_query": "OČISTI PRETRAGU"
+    }
+}
