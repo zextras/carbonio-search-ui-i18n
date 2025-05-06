@@ -8,5 +8,8 @@
     "type_or_choose_suggestion": "Wpisz lub wybierz słowa kluczowe aby rozpocząć wyszukiwanie",
     "type_to_start_search": "Wpisz słowa kluczowe aby rozpocząć wyszukiwanie",
     "already_clear": "Pole wyszukiwania jest już puste",
-    "clear": "Wyczyść pole wyszukiwania"
+    "clear": "Wyczyść pole wyszukiwania",
+    "label": {
+        "clear_search_query": "WYCZYŚĆ WYSZUKIWANIE"
+    }
 }
