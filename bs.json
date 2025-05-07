@@ -8,5 +8,8 @@
     "idle_input_label": "Pretraži u {{module}}",
     "app": "Pretraga",
     "module": "Modul",
-    "start": "Počni pretragu"
+    "start": "Počni pretragu",
+    "label": {
+        "clear_search_query": "OBRIŠI PRETRAGU"
+    }
 }
