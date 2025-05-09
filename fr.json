@@ -8,5 +8,8 @@
     "idle_input_label": "Rechercher dans {{module}}",
     "start": "Démarrer la recherche",
     "type_or_choose_suggestion": "Tapez ou choisissez des mots-clés pour lancer une recherche",
-    "unable_to_parse_query": "Impossible de terminer la recherche, effacez-la et réessayez"
+    "unable_to_parse_query": "Impossible de terminer la recherche, effacez-la et réessayez",
+    "label": {
+        "clear_search_query": "NETTOYER LA RECHERCHE"
+    }
 }
