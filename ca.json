@@ -1,1 +1,10 @@
-{}
+{
+    "active_input_label": "Separeu les paraules clau per coma",
+    "idle_input_label": "Cerca a {{module}}",
+    "module": "Mòdul",
+    "type_or_choose_suggestion": "Escriviu o trieu algunes paraules clau per iniciar una cerca",
+    "unable_to_parse_query": "No és possible completar la cerca, netegeu-la i torneu-ho a provar",
+    "label": {
+        "clear_search_query": "NETEJA DE CERCA"
+    }
+}
