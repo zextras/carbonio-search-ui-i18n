@@ -6,5 +6,9 @@
     "unable_to_parse_query": "No és possible completar la cerca, netegeu-la i torneu-ho a provar",
     "label": {
         "clear_search_query": "NETEJA DE CERCA"
-    }
+    },
+    "already_clear": "La entrada de cerca ja està neta",
+    "clear": "Netejar la entrada de cerca",
+    "start": "Iniciar una cerca",
+    "type_to_start_search": "Escriviu algunes paraules clau per iniciar una cerca"
 }
