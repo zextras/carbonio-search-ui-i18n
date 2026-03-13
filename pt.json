@@ -8,5 +8,8 @@
     "already_clear": "A caixa de pesquisa está vazia",
     "type_to_start_search": "Digite as palavras-chave para iniciar a busca",
     "type_or_choose_suggestion": "Digite as palavras-chave para iniciar a busca",
-    "unable_to_parse_query": "Não foi possível completar a busca, limpe-a e tente novamente"
+    "unable_to_parse_query": "Não foi possível completar a busca, limpe-a e tente novamente",
+    "label": {
+        "clear_search_query": "LIMPAR BUSCA"
+    }
 }
