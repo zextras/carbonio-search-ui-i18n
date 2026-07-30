@@ -8,5 +8,8 @@
     "already_clear": "Sucheingabe ist bereits leer",
     "type_to_start_search": "Geben Sie Schlüsselwörter ein, um die Suche zu starten",
     "type_or_choose_suggestion": "Geben Sie einige Schlüsselwörter ein oder wählen Sie sie aus, um eine Suche zu starten",
-    "unable_to_parse_query": "Die Suche kann nicht abgeschlossen werden, löschen Sie sie und versuchen Sie es erneut"
+    "unable_to_parse_query": "Die Suche kann nicht abgeschlossen werden, löschen Sie sie und versuchen Sie es erneut",
+    "label": {
+        "clear_search_query": "SUCHE LÖSCHEN"
+    }
 }
